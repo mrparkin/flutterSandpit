@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
     } else {
       hello = "Good evening";
     }
-//testtest
+//test
     String minutues =
         (miniute < 10) ? "0" + miniute.toString() : miniute.toString();
 
